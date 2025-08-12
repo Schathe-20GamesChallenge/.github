@@ -6,7 +6,7 @@ Welcome to my game development journey! This project follows the [20 Games Chall
 
 | # | Game        | Repository                                      | Status       | Difficulty |
 |---|-------------|-------------------------------------------------|--------------|------------|
-| 1 | Pong        | [1-pong](https://github.com/schathe/1-pong) | 🔄 In Progress | ☆       |
+| 1 | Pong        | [1-pong](https://github.com/Schathe-20GamesChallenge/1-Pong) | 🔄 In Progress | ☆       |
 | 2 | Breakout    | ...                                             | ⏳ Coming Soon | ☆       |
 | 3 | Flappy Bird | ...                                             | ⏳ Coming Soon | ★     |
 | ... | ...       | ...                                             | ...          | ...        |
